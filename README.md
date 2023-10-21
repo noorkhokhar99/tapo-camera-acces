@@ -1,10 +1,10 @@
-# Using Tapo C200 TP Link Camera OpenCV Script Documentation
+# Using Tapo C200 TP-Link Camera OpenCV Script Documentation
 #### Introduction
 
-This documentation provides a guide on how to use the Tapo C200 TP Link camera with OpenCV. The script connects to the camera using an RTSP link and captures video frames for further processing or display.
+This documentation provides a guide on how to use the Tapo C200 TP-Link camera with OpenCV. The script connects to the camera using an RTSP link and captures video frames for further processing or display.
 
 ### Youtube
-https://www.youtube.com/watch?v=-kcVOxRNR9M
+https://www.youtube.com/@Pyresearch
 
 #### Prerequisites
 
@@ -53,23 +53,11 @@ rtsp_url = url_640x480
 ````
 
 #### Conclusion
-This script provides a basic implementation to connect to a Tapo C200 TP Link camera using an RTSP link and utilize the video feed with OpenCV. Feel free to modify the configuration and adapt it to your specific use case.
+This script provides a basic implementation to connect to a Tapo C200 TP-Link camera using an RTSP link and utilize the video feed with OpenCV. Feel free to modify the configuration and adapt it to your specific use case.
 
 Please note that this script assumes a working network connection to the Tapo C200 camera and proper configuration of the camera's IP address, port, username, and password.
 
 #### Resources & References
-This section provides resources used in the discovery phase of the script in attempt to make the video feed work for python open cv.
-
-https://www.tp-link.com/us/support/faq/2680/
-
-https://helpdesk.cctvdiscover.com/network/rtsp_stream.html
-
-https://www.ispyconnect.com/
-
-https://www.ispyconnect.com/camera/tp-link
-
-https://programtalk.com/vs4/python/JurajNyiri/pytapo/
+This section provides resources used in the discovery phase of the script in an attempt to make the video feed work for Python open cv.
 
 
-#### How to Setup Tapo Smart Home WiFi Camera C200
-"https://www.youtube.com/watch?v=ozBOifbkqGk"
